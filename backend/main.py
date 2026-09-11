@@ -1,6 +1,6 @@
-def main():
-    print("Hello from backend!")
+"""
+FastAPI 后端应用的入口。
 
+后续在这里创建应用、注册故事与任务路由，并配置应用级行为。
+"""
 
-if __name__ == "__main__":
-    main()
